@@ -17,7 +17,7 @@
     "magic-string": "^0.7.0",
     "mocha": "~2.3.0",
     "phantomjs": "^1.9.18",
-    "uglify-js": "~2.4.23"
+    "uglify-js": "~3.10.1"
   },
   "main": "dist/leaflet-src.js",
   "style": "dist/leaflet.css",
